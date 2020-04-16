@@ -1,0 +1,3 @@
+rootProject.name='Network Potato Example'
+include ':app'
+include ':imageloader'
